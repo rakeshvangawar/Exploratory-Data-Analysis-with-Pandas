@@ -1,6 +1,6 @@
 # Telecom-Churn-Case-Study
 
-Telecom Churn Rate analysis with Pandas
+Telecom churn rate analysis with Pandas
 
 Telecom companies need to predict which customers are at high risk of churn. In this repo, we will have 3 main goals.
 
@@ -10,4 +10,4 @@ Telecom companies need to predict which customers are at high risk of churn. In 
 
 # About the data
 
-The Data gotten from mlcourse.ai
+The Data is gotten from mlcourse.ai

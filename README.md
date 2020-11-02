@@ -10,4 +10,4 @@ Telecom companies need to predict which customers are at high risk of churn. In 
 
 # About the data
 
-Data gotten from mlcourse.ai
+The Data gotten from mlcourse.ai
